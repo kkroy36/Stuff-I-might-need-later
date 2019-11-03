@@ -1,0 +1,4 @@
+mode: male(+name).
+mode: childof(+name,+name).
+mode: siblingof(+name,-name).
+mode: father(+name,+name).

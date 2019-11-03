@@ -1,0 +1,8 @@
+ha(carl).
+ha(kurt).
+ha(keith).
+ha(shawn).
+ha(diana).
+ha(denny).
+ha(pete).
+ha(luke).

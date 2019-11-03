@@ -1,0 +1,5 @@
+ha(kurt).
+ha(keith).
+ha(shawn).
+ha(rhonda).
+ha(luke).

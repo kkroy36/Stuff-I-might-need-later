@@ -1,0 +1,11 @@
+chol0(carl).
+chol1(kurt).
+chol1(keith).
+chol0(kevin).
+chol1(shawn).
+chol1(rhonda).
+chol0(diana).
+chol0(denny).
+chol0(sam).
+chol0(pete).
+chol1(luke).

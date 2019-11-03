@@ -1,0 +1,3 @@
+1.ha(P):-chol1(P) [ha] []
+2.ha(P):-chol1(P) [] [ha]
+3.ha(P):-chol0(P) [] [ha]
